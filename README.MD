@@ -36,6 +36,14 @@ This module covers the groundwork necessary for AI development:
 - Basic programming concepts.
 - Introduction to AI terminology.
 
+#### Crash Course
+Located in: `_1_AI_Foundation_and_Python_Essentials/crash-course`
+
+A quick dive into Python essentials including:
+- **Data Structures & Algorithms**: `_1_dsa`
+- **Control Flow**: `_2_ctrlflw`
+
+
 ## How to Contribute
 
 Contributions are welcome! If you have suggestions for improvements, new topics, or bug fixes, please feel free to open an issue or submit a pull request.
