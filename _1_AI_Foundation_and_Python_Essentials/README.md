@@ -218,7 +218,16 @@ Let's illustrate these concepts with more detailed, real-world applications to s
 **Impact:**
 - Helps doctors spot issues faster, reduces errors, and catches conditions earlier.
 
+- Helps doctors spot issues faster, reduces errors, and catches conditions earlier.
+
+## Python Refresher
+
+Need a quick revision of Python basics before diving deeper? Check out our **[Crash Course](crash-course/README.md)** module. It covers:
+- **Data Structures & Algorithms**: Lists, Tuples, Dictionaries, Sets.
+- **Control Flow**: If statements, Loops.
+
 ## Quick Summary of the Intro Lesson
+
 
 In this starter lesson, you learned the basics of AI and Machine Learning (ML). AI is about building smart machines, 
 with types like Narrow (focused tasks), General (human-like), and Superintelligence (beyond human). ML is a key part of AI, where systems learn from data. You covered core ideas: data, features, models, training, and prediction, plus learning styles—supervised (labeled examples), unsupervised (self-discovery), and reinforcement (trial-and-error rewards).
