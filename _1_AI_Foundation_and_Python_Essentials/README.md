@@ -226,6 +226,11 @@ Need a quick revision of Python basics before diving deeper? Check out our **[Cr
 - **Data Structures & Algorithms**: Lists, Tuples, Dictionaries, Sets.
 - **Control Flow**: If statements, Loops.
 
+## NumPy Fundamentals
+
+Ready to handle data like a pro? Dive into **[NumPy Fundamentals](data-manipulation-NumPy-fundamentals/README.md)** to learn about arrays, vectorized operations, and linear algebra.
+
+
 ## Quick Summary of the Intro Lesson
 
 
