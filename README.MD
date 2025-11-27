@@ -43,6 +43,12 @@ A quick dive into Python essentials including:
 - **Data Structures & Algorithms**: `_1_dsa`
 - **Control Flow**: `_2_ctrlflw`
 
+#### Practical Python for Data Manipulation: NumPy Fundamentals
+Located in: `_1_AI_Foundation_and_Python_Essentials/data-manipulation-NumPy-fundamentals`
+
+Master the core technology for numerical computing in Python.
+
+
 
 ## How to Contribute
 
