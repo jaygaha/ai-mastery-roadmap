@@ -230,6 +230,10 @@ Need a quick revision of Python basics before diving deeper? Check out our **[Cr
 
 Ready to handle data like a pro? Dive into **[NumPy Fundamentals](data-manipulation-NumPy-fundamentals/README.md)** to learn about arrays, vectorized operations, and linear algebra.
 
+## Pandas for Data Analysis
+
+Unlock the power of data manipulation and analysis. Explore **[Pandas](pandas/README.md)** to master Series, DataFrames, and essential data operations.
+
 
 ## Quick Summary of the Intro Lesson
 

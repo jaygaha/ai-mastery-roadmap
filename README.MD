@@ -48,6 +48,11 @@ Located in: `_1_AI_Foundation_and_Python_Essentials/data-manipulation-NumPy-fund
 
 Master the core technology for numerical computing in Python.
 
+#### Data Analysis with Pandas
+Located in: `_1_AI_Foundation_and_Python_Essentials/pandas`
+
+Learn to manipulate and analyze structured data using Series and DataFrames.
+
 
 
 ## How to Contribute
