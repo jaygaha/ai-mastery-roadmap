@@ -53,6 +53,11 @@ Located in: `_1_AI_Foundation_and_Python_Essentials/pandas`
 
 Learn to manipulate and analyze structured data using Series and DataFrames.
 
+#### Case Study: Customer Churn Prediction
+Located in: `_1_AI_Foundation_and_Python_Essentials/case_study_customer_churn_prediction`
+
+Apply your skills to a real-world business problem: predicting customer churn.
+
 
 
 ## How to Contribute
