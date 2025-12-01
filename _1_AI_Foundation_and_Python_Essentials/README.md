@@ -234,6 +234,13 @@ Ready to handle data like a pro? Dive into **[NumPy Fundamentals](data-manipulat
 
 Unlock the power of data manipulation and analysis. Explore **[Pandas](pandas/README.md)** to master Series, DataFrames, and essential data operations.
 
+## Case Study: Customer Churn Prediction
+
+Bridge the gap between theory and practice with our ongoing **[Customer Churn Prediction Case Study](case_study_customer_churn_prediction/README.md)**. This real-world project will help you:
+- Apply Python, NumPy, and Pandas skills to a tangible business problem.
+- Understand the importance of data in AI/ML.
+- Prepare for future modules on data preprocessing and machine learning.
+
 
 ## Quick Summary of the Intro Lesson
 
