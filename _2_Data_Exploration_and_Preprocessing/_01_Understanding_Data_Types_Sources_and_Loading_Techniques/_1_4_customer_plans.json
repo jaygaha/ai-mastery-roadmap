@@ -1,0 +1,6 @@
+
+[
+    {"CustomerID": 1001, "Plan": "Basic", "Status": "Active"},
+    {"CustomerID": 1002, "Plan": "Premium", "Status": "Churned"},
+    {"CustomerID": 1003, "Plan": "Basic", "Status": "Active"}
+]

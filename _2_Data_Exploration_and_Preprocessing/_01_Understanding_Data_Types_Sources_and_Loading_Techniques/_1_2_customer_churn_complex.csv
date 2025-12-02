@@ -1,0 +1,6 @@
+CustomerID,Gender,Age,MonthlyCharges,TotalCharges,Churn_Status,JoinDate
+1001,Male,34,50.00,1700.00,No,2024-01-15
+1002,Female,56,80.50,4500.25,Yes,2020-03-22
+1003,Female,22,30.00,,No,2023-07-01
+1004,Male,45,100.25,6000.50,Yes,2021-11-05
+1005,Male,67,25.75,100.00,No,2022-09-30
