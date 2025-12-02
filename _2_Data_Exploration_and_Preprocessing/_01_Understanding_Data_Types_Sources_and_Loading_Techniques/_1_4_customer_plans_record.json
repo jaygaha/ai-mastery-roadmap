@@ -1,0 +1,4 @@
+
+{"CustomerID": {"0": 1001, "1": 1002, "2": 1003},
+ "Plan": {"0": "Basic", "1": "Premium", "2": "Basic"},
+ "Status": {"0": "Active", "1": "Churned", "2": "Active"}}

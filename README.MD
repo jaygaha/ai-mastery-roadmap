@@ -58,6 +58,19 @@ Located in: `_1_AI_Foundation_and_Python_Essentials/case_study_customer_churn_pr
 
 Apply your skills to a real-world business problem: predicting customer churn.
 
+### 2. Data Exploration and Preprocessing
+Located in: `_2_Data_Exploration_and_Preprocessing`
+
+Before feeding data into models, you must understand and prepare it. This module covers:
+
+#### Understanding Data Types, Sources, and Loading Techniques
+Located in: `_2_Data_Exploration_and_Preprocessing/_01_Understanding_Data_Types_Sources_and_Loading_Techniques`
+
+Master the basics of data:
+- Types: Numerical, Categorical, Text.
+- Sources: Databases, Files, APIs.
+- Loading: Using Pandas to ingest data.
+
 
 
 ## How to Contribute
