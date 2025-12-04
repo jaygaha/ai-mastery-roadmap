@@ -71,6 +71,14 @@ Master the basics of data:
 - Sources: Databases, Files, APIs.
 - Loading: Using Pandas to ingest data.
 
+#### Exploratory Data Analysis (EDA) with Pandas and Matplotlib
+Located in: `_2_Data_Exploration_and_Preprocessing/_02_EDA_with_Pandas_and_Matplotlib`
+
+Learn to:
+- Inspect data structure and types.
+- Visualize distributions and relationships.
+- Identify patterns and anomalies.
+
 
 
 ## How to Contribute
