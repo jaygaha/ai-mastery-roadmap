@@ -20,3 +20,12 @@ Learn how to:
 - Visualize data distributions and relationships using Matplotlib.
 - Identify patterns, outliers, and correlations in the dataset.
 - Apply EDA techniques to a real-world customer churn dataset.
+
+### 3. Data Cleaning: Handling Missing Values, Outliers, and Inconsistencies
+Located in: `_03_Data_Cleaning`
+
+Learn how to:
+- Identify and handle missing values.
+- Detect and treat outliers.
+- Correct data inconsistencies.
+

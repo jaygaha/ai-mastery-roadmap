@@ -79,6 +79,14 @@ Learn to:
 - Visualize distributions and relationships.
 - Identify patterns and anomalies.
 
+#### Data Cleaning: Handling Missing Values, Outliers, and Inconsistencies
+Located in: `_2_Data_Exploration_and_Preprocessing/_03_Data_Cleaning`
+
+Ensure data quality by:
+- Identifying and handling missing values.
+- Detecting and treating outliers.
+- Correcting data inconsistencies.
+
 
 
 ## How to Contribute
