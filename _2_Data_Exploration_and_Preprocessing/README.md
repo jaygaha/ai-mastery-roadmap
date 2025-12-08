@@ -29,3 +29,12 @@ Learn how to:
 - Detect and treat outliers.
 - Correct data inconsistencies.
 
+### 4. Feature Engineering and Selection for Model Performance
+Located in: `_04_model_performance`
+
+Learn how to:
+- Engineer new features to improve model performance.
+- Select the most relevant features for your models.
+- Address the curse of dimensionality.
+- Improve model interpretability.
+
