@@ -87,9 +87,15 @@ Ensure data quality by:
 - Detecting and treating outliers.
 - Correcting data inconsistencies.
 
+#### Feature Engineering and Selection for Model Performance
+Located in: `_2_Data_Exploration_and_Preprocessing/_04_model_performance`
 
+Unlock the true potential of your data:
+- **Feature Engineering**: Creating new signals from existing data.
+- **Feature Selection**: Choosing the most impactful features for your models.
 
 ## How to Contribute
+
 
 Contributions are welcome! If you have suggestions for improvements, new topics, or bug fixes, please feel free to open an issue or submit a pull request.
 
