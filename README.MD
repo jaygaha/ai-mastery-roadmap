@@ -94,6 +94,13 @@ Unlock the true potential of your data:
 - **Feature Engineering**: Creating new signals from existing data.
 - **Feature Selection**: Choosing the most impactful features for your models.
 
+#### Data Scaling, Normalization, and Encoding
+Located in: `_2_Data_Exploration_and_Preprocessing/_05_Data_Scaling_Normalization_and_Encoding`
+
+Prepare your data for efficient learning:
+- **Scaling & Normalization**: Adjusting numerical data to a common scale.
+- **Encoding**: Converting categorical variables into numerical format.
+
 ## How to Contribute
 
 

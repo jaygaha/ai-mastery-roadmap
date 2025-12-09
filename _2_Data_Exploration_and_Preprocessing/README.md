@@ -38,3 +38,12 @@ Learn how to:
 - Address the curse of dimensionality.
 - Improve model interpretability.
 
+### 5. Data Scaling, Normalization, and Encoding
+Located in: `_05_Data_Scaling_Normalization_and_Encoding`
+
+Learn how to:
+- Scale numerical features to a common range.
+- Normalize data to ensure consistent units.
+- Encode categorical variables for model compatibility.
+- Apply these techniques to a real-world fraud detection dataset.
+
