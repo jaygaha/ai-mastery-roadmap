@@ -101,14 +101,19 @@ Prepare your data for efficient learning:
 - **Scaling & Normalization**: Adjusting numerical data to a common scale.
 - **Encoding**: Converting categorical variables into numerical format.
 
-## How to Contribute
+#### Preparing Customer Churn Case Study Data for Modeling
+Located in: `_2_Data_Exploration_and_Preprocessing/_06_Preparing_Customer_Churn_Case_Study_Data_for_Modeling`
 
+Prepare customer churn case study data for machine learning models:
+- **Feature Engineering**: Creating new signals from existing data.
+- **Feature Selection**: Choosing the most impactful features for your models.
+- **Data Scaling, Normalization, and Encoding**: Adjusting numerical data to a common scale.
+- **Encoding**: Converting categorical variables into numerical format.
+
+## How to Contribute
 
 Contributions are welcome! If you have suggestions for improvements, new topics, or bug fixes, please feel free to open an issue or submit a pull request.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-

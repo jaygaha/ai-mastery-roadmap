@@ -47,3 +47,11 @@ Learn how to:
 - Encode categorical variables for model compatibility.
 - Apply these techniques to a real-world fraud detection dataset.
 
+### 6. Preparing Customer Churn Case Study Data for Modeling
+Located in: `_06_Preparing_Customer_Churn_Case_Study_Data_for_Modeling`
+
+Learn how to:
+- Synthesize all preprocessing steps into a cohesive pipeline.
+- Apply scaling and encoding to the full customer churn dataset.
+- Prepare the data for final model training.
+
