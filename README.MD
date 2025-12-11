@@ -108,7 +108,18 @@ Prepare customer churn case study data for machine learning models:
 - **Feature Engineering**: Creating new signals from existing data.
 - **Feature Selection**: Choosing the most impactful features for your models.
 - **Data Scaling, Normalization, and Encoding**: Adjusting numerical data to a common scale.
-- **Encoding**: Converting categorical variables into numerical format.
+ - **Encoding**: Converting categorical variables into numerical format.
+
+### 3. Core Machine Learning Algorithms
+Located in: `_3_Core_Machine_Learning_Algorithms`
+
+Dive into the algorithms that power AI:
+
+#### Supervised Learning Paradigms: Regression vs Classification
+Located in: `_3_Core_Machine_Learning_Algorithms/_01_Supervised_Learning_Paradigms_Regression_vs_Classification`
+
+- Understand the fundamental difference between predicting numbers (Regression) and predicting categories (Classification).
+
 
 ## How to Contribute
 
