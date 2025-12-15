@@ -10,3 +10,11 @@
  Understand the two main pillars of supervised learning:
  - **Regression**: Predicting continuous values (like prices or temperatures).
  - **Classification**: Predicting categories (like spam vs. ham or churn vs. stay).
+
+### 2. Linear Regression: Theory, Assumptions, and Practical Implementation
+Located in: `_02_Linear_Regression`
+
+Master the simple yet powerful linear model:
+- Understand the math behind the "best fit line".
+- Learn the 5 critical checks (assumptions) to ensure your model is valid.
+- Implement it from scratch using Scikit-Learn.
