@@ -120,6 +120,13 @@ Located in: `_3_Core_Machine_Learning_Algorithms/_01_Supervised_Learning_Paradig
 
 - Understand the fundamental difference between predicting numbers (Regression) and predicting categories (Classification).
 
+#### Linear Regression: Theory, Assumptions, and Practical Implementation
+Located in: `_3_Core_Machine_Learning_Algorithms/_02_Linear_Regression`
+
+- Learn the principles of linear modeling and OLS.
+- Master the 5 key assumptions for reliable predictions.
+- Apply it to synthetic and real-world data.
+
 
 ## How to Contribute
 
