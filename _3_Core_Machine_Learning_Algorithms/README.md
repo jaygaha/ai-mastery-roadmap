@@ -18,3 +18,11 @@ Master the simple yet powerful linear model:
 - Understand the math behind the "best fit line".
 - Learn the 5 critical checks (assumptions) to ensure your model is valid.
 - Implement it from scratch using Scikit-Learn.
+
+### 3. Logistic Regression: Theory, Probabilistic Classification, and Practical Implementation
+Located in: `_03_Logistic_Regression`
+
+The fundamental classification algorithm:
+- Understand how S-curves map numbers to probabilities.
+- Learn about Decision Boundaries and Thresholds.
+- Implement a churn prediction model.
