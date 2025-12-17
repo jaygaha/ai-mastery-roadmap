@@ -127,6 +127,13 @@ Located in: `_3_Core_Machine_Learning_Algorithms/_02_Linear_Regression`
 - Master the 5 key assumptions for reliable predictions.
 - Apply it to synthetic and real-world data.
 
+#### Logistic Regression: Theory, Probabilistic Classification, and Practical Implementation
+Located in: `_3_Core_Machine_Learning_Algorithms/_03_Logistic_Regression`
+
+- Understand probabilistic classification and the Sigmoid function.
+- Experiment with decision thresholds for precision/recall trade-offs.
+- Interpret model coefficients for feature importance.
+
 
 ## How to Contribute
 
