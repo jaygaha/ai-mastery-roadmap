@@ -134,6 +134,13 @@ Located in: `_3_Core_Machine_Learning_Algorithms/_03_Logistic_Regression`
 - Experiment with decision thresholds for precision/recall trade-offs.
 - Interpret model coefficients for feature importance.
 
+#### Decision Trees and Ensemble Methods (Random Forests): Theory and Implementation
+Located in: `_3_Core_Machine_Learning_Algorithms/_04_Decision_Trees_and_Ensemble_Methods`
+
+- Learn how Decision Trees split data (Entropy, Gini).
+- Understand Ensemble Learning and Random Forests.
+- Tune hyperparameters for optimal performance.
+
 
 ## How to Contribute
 

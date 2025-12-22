@@ -26,3 +26,11 @@ The fundamental classification algorithm:
 - Understand how S-curves map numbers to probabilities.
 - Learn about Decision Boundaries and Thresholds.
 - Implement a churn prediction model.
+
+### 4. Decision Trees and Ensemble Methods (Random Forests): Theory and Implementation
+Located in: `_04_Decision_Trees_and_Ensemble_Methods`
+
+Intuitive and powerful non-linear models:
+- **Decision Trees:** Like a game of "20 Questions" to classify data.
+- **Random Forests:** Tapping into the "Wisdom of the Crowd" (Ensemble) for better accuracy.
+- Practice hyperparameter tuning.
