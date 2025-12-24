@@ -141,6 +141,13 @@ Located in: `_3_Core_Machine_Learning_Algorithms/_04_Decision_Trees_and_Ensemble
 - Understand Ensemble Learning and Random Forests.
 - Tune hyperparameters for optimal performance.
 
+#### Model Evaluation Metrics for Regression: MAE, MSE, R2
+Located in: `_3_Core_Machine_Learning_Algorithms/_05_Model_Evaluation_Metrics_for_Regression`
+
+- **Evaluate Performance**: Don't just predict, measure.
+- **Key Metrics**: Master MAE (Average Miss), MSE (Strict), and R2 (Accuracy).
+- **Interpretation**: Learn to translate "R2=0.8" into business terms.
+
 
 ## How to Contribute
 

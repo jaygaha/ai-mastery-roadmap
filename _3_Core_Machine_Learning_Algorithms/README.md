@@ -34,3 +34,11 @@ Intuitive and powerful non-linear models:
 - **Decision Trees:** Like a game of "20 Questions" to classify data.
 - **Random Forests:** Tapping into the "Wisdom of the Crowd" (Ensemble) for better accuracy.
 - Practice hyperparameter tuning.
+
+### 5. Model Evaluation Metrics for Regression
+Located in: `_05_Model_Evaluation_Metrics_for_Regression`
+
+Learn how to evaluate your regression models:
+- **MAE**: The average miss.
+- **MSE/RMSE**: Penalizing large errors.
+- **R-Squared**: Goodness of fit.
