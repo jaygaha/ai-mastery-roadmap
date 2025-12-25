@@ -42,3 +42,11 @@ Learn how to evaluate your regression models:
 - **MAE**: The average miss.
 - **MSE/RMSE**: Penalizing large errors.
 - **R-Squared**: Goodness of fit.
+
+### 6. Model Evaluation Metrics for Classification
+Located in: `_06_Model_Evaluation_Metrics_for_Classification`
+
+Master the art of judging "Right vs Wrong":
+- **Confusion Matrix**: The Boy Who Cried Wolf (Type I vs Type II errors).
+- **Precision vs Recall**: When to trust the model vs when to catch every case.
+- **F1-Score**: Balancing the trade-offs.

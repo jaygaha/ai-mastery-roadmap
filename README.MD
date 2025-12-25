@@ -148,6 +148,13 @@ Located in: `_3_Core_Machine_Learning_Algorithms/_05_Model_Evaluation_Metrics_fo
 - **Key Metrics**: Master MAE (Average Miss), MSE (Strict), and R2 (Accuracy).
 - **Interpretation**: Learn to translate "R2=0.8" into business terms.
 
+#### Model Evaluation Metrics for Classification: Accuracy, Precision, Recall, F1-Score
+Located in: `_3_Core_Machine_Learning_Algorithms/_06_Model_Evaluation_Metrics_for_Classification`
+
+- **Beyond Accuracy**: Why "99% accuracy" can be misleading.
+- **The Confusion Matrix**: Understanding False Positives vs False Negatives.
+- **Precision vs Recall**: Making strategic business decisions based on error types.
+
 
 ## How to Contribute
 
