@@ -155,6 +155,16 @@ Located in: `_3_Core_Machine_Learning_Algorithms/_06_Model_Evaluation_Metrics_fo
 - **The Confusion Matrix**: Understanding False Positives vs False Negatives.
 - **Precision vs Recall**: Making strategic business decisions based on error types.
 
+#### Applying Classic ML Algorithms to the Churn Prediction Case Study
+Located in: `_3_Core_Machine_Learning_Algorithms/_07_Applying_Classic_ML_Algorithms`
+
+- **Real-World Application**: Apply Logistic Regression, Decision Trees, and Random Forests to customer churn prediction.
+- **Model Comparison**: Compare performance using evaluation metrics and make data-driven decisions.
+- **Hyperparameter Tuning**: Optimize model performance by adjusting key parameters.
+- **Threshold Adjustment**: Learn to balance precision and recall based on business priorities.
+- **Feature Importance**: Discover which customer characteristics drive churn predictions.
+- **Business Recommendations**: Make informed model selection decisions for production deployment.
+
 
 ## How to Contribute
 
