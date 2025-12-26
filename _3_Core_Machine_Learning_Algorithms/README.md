@@ -50,3 +50,13 @@ Master the art of judging "Right vs Wrong":
 - **Confusion Matrix**: The Boy Who Cried Wolf (Type I vs Type II errors).
 - **Precision vs Recall**: When to trust the model vs when to catch every case.
 - **F1-Score**: Balancing the trade-offs.
+
+### 7. Applying Classic ML Algorithms to Churn Prediction
+Located in: `_07_Applying_Classic_ML_Algorithms`
+
+Put theory into practice with a real-world case study:
+- **Apply All Three Algorithms**: Logistic Regression, Decision Trees, and Random Forests on the same problem.
+- **Compare Performance**: Learn which model works best and why.
+- **Hyperparameter Tuning**: Optimize models for better results.
+- **Business Decision Making**: Adjust thresholds and interpret feature importance.
+- **Make Recommendations**: Choose the best model based on business objectives.
