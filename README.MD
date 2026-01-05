@@ -164,6 +164,17 @@ Located in: `_3_Core_Machine_Learning_Algorithms/_07_Applying_Classic_ML_Algorit
 - **Threshold Adjustment**: Learn to balance precision and recall based on business priorities.
 - **Feature Importance**: Discover which customer characteristics drive churn predictions.
 - **Business Recommendations**: Make informed model selection decisions for production deployment.
++
++### 4. Introduction to Deep Learning with TensorFlow
++Located in: `_4_Introduction_to_Deep_Learning_with_TensorFlow`
++
++Explore the next frontier of AI:
++
++#### From Traditional ML to Deep Learning: The Concept of Neural Networks
++Located in: `_4_Introduction_to_Deep_Learning_with_TensorFlow/_04_1_The_Concept_of_Neural_Networks`
++
++- Learn how neural networks overcome the limits of traditional machine learning.
++- Understand hierarchical representation learning and automatic feature discovery.
 
 
 ## How to Contribute
