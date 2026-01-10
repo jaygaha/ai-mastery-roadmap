@@ -17,3 +17,10 @@ Located in: `_04_2_Perception_Model_Explained`
 - Anatomy: Inputs, Weights, and the Bias.
 - Learning Rule: How a machine improves through "trial and error."
 - The XOR Wall: Understanding the limitations of simple models and why we need "Deep" networks.
+
+### 4.3 Activations & Loss Functions: The Engine of Learning
+Located in: `_04_3_Activations_Loss_Functions`
+
+- **Activation Functions:** The "Spark" (ReLU, Sigmoid, Softmax) that adds non-linearity.
+- **Loss Functions:** The "Scorecard" (MSE, Cross-Entropy) that measures error.
+
