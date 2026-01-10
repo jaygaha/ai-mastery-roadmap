@@ -184,6 +184,13 @@ Located in: `_4_Introduction_to_Deep_Learning_with_TensorFlow/_04_2_Perception_M
 - Understand the "Learning Rule" that allows machines to improve.
 - Learn about the XOR problem and why we need multi-layer networks.
 
+#### Activations & Loss Functions: The Engine of Learning
+Located in: `_4_Introduction_to_Deep_Learning_with_TensorFlow/_04_3_Activations_Loss_Functions`
+
+- **Activation Functions:** The "Spark" (ReLU, Sigmoid, Softmax).
+- **Loss Functions:** The "Scorecard" (MSE, Cross-Entropy).
+- **Goal:** How networks decide what to learn and how to measure mistakes.
+
 
 ## How to Contribute
 
