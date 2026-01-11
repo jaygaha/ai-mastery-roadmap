@@ -24,3 +24,10 @@ Located in: `_04_3_Activations_Loss_Functions`
 - **Activation Functions:** The "Spark" (ReLU, Sigmoid, Softmax) that adds non-linearity.
 - **Loss Functions:** The "Scorecard" (MSE, Cross-Entropy) that measures error.
 
+### 4.4 Gradient Descent & Backpropagation: How Networks Learn
+Located in: `_04_4_Gradient_Backpropagation_Explained`
+
+- **The Goal:** Minimizing the loss function.
+- **Gradient Descent:** Adjusted weights to move "downhill" towards the answer.
+- **Backpropagation:** The "Blame Game" – calculating who is responsible for the error.
+

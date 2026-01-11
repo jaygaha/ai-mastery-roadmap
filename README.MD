@@ -191,6 +191,12 @@ Located in: `_4_Introduction_to_Deep_Learning_with_TensorFlow/_04_3_Activations_
 - **Loss Functions:** The "Scorecard" (MSE, Cross-Entropy).
 - **Goal:** How networks decide what to learn and how to measure mistakes.
 
+#### Gradient Descent & Backpropagation: How Networks Learn
+Located in: `_4_Introduction_to_Deep_Learning_with_TensorFlow/_04_4_Gradient_Backpropagation_Explained`
+
+- **The Goal:** Minimizing the loss function.
+- **Gradient Descent:** Adjusted weights to move "downhill" towards the answer.
+- **Backpropagation:** The "Blame Game" – calculating who is responsible for the error.
 
 ## How to Contribute
 
