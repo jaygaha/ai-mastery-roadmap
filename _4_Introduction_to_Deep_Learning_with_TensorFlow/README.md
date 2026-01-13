@@ -31,3 +31,10 @@ Located in: `_04_4_Gradient_Backpropagation_Explained`
 - **Gradient Descent:** Adjusted weights to move "downhill" towards the answer.
 - **Backpropagation:** The "Blame Game" – calculating who is responsible for the error.
 
+### 4.5 Setup TensorFlow Keras
+Located in: `_04_5_Setup_TensorFlow_Keras`
+
+- **Installation:** Setting up your deep learning environment (Windows, Mac, Linux).
+- **Core Concepts:** Understanding the relationship between TensorFlow (Backend) and Keras (Frontend).
+- **First Model:** Building and training a "Hello World" neural network.
+

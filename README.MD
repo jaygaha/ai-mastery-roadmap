@@ -198,6 +198,13 @@ Located in: `_4_Introduction_to_Deep_Learning_with_TensorFlow/_04_4_Gradient_Bac
 - **Gradient Descent:** Adjusted weights to move "downhill" towards the answer.
 - **Backpropagation:** The "Blame Game" – calculating who is responsible for the error.
 
+### Setup TensorFlow Keras
+Located in: `_4_Introduction_to_Deep_Learning_with_TensorFlow/_04_5_Setup_TensorFlow_Keras`
+
+- **Installation:** Setting up your deep learning environment (Windows, Mac, Linux).
+- **Core Concepts:** Understanding the relationship between TensorFlow (Backend) and Keras (Frontend).
+- **First Model:** Building and training a "Hello World" neural network.
+
 ## How to Contribute
 
 Contributions are welcome! If you have suggestions for improvements, new topics, or bug fixes, please feel free to open an issue or submit a pull request.
