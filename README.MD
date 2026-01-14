@@ -205,6 +205,13 @@ Located in: `_4_Introduction_to_Deep_Learning_with_TensorFlow/_04_5_Setup_Tensor
 - **Core Concepts:** Understanding the relationship between TensorFlow (Backend) and Keras (Frontend).
 - **First Model:** Building and training a "Hello World" neural network.
 
+#### Building and Training a Simple Feedforward Neural Network
+Located in: `_4_Introduction_to_Deep_Learning_with_TensorFlow/_04_6_Build_Train_NeuralNet`
+
+- **Build:** Creating a Sequential model with input, hidden, and output layers.
+- **Train:** Using epochs and batch size to learn patterns from real data.
+- **Evaluate:** Checking performance on unseen test data.
+
 ## How to Contribute
 
 Contributions are welcome! If you have suggestions for improvements, new topics, or bug fixes, please feel free to open an issue or submit a pull request.
