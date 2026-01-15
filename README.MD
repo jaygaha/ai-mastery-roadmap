@@ -212,6 +212,18 @@ Located in: `_4_Introduction_to_Deep_Learning_with_TensorFlow/_04_6_Build_Train_
 - **Train:** Using epochs and batch size to learn patterns from real data.
 - **Evaluate:** Checking performance on unseen test data.
 
+### 5. Developing and Optimizing Neural Networks
+Located in: `_5_Optimize_Neural_Networks`
+
+This module explores the art of fine-tuning neural networks to improve their performance.
+
+#### Multi-Layer Perceptrons (MLPs) for Complex Classification and Regression
+Located in: `_5_Optimize_Neural_Networks/_05_1_MLPs_for_Complex_Classification_and_Regression`
+
+- **Architecture:** Understanding Input, Hidden, and Output layers.
+- **Activation Functions:** Using ReLU, Sigmoid, and Softmax.
+- **Implementation:** Building MLPs with Keras for multi-class and regression tasks.
+
 ## How to Contribute
 
 Contributions are welcome! If you have suggestions for improvements, new topics, or bug fixes, please feel free to open an issue or submit a pull request.
