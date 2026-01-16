@@ -224,6 +224,16 @@ Located in: `_5_Optimize_Neural_Networks/_05_1_MLPs_for_Complex_Classification_a
 - **Activation Functions:** Using ReLU, Sigmoid, and Softmax.
 - **Implementation:** Building MLPs with Keras for multi-class and regression tasks.
 
+#### Training Neural Networks: Epochs, Batch Size, and Optimizers (Adam, SGD)
+Located in: `_5_Optimize_Neural_Networks/_05_2_Train_Network_Optimizers`
+
+Master the critical parameters that control neural network training:
+- **Epochs:** Learn to balance underfitting and overfitting by controlling training iterations.
+- **Batch Size:** Understand the trade-offs between memory usage, training speed, and convergence stability.
+- **Optimizers:** Compare SGD and Adam, understanding when each is most effective.
+- **Hands-On Practice:** Three comprehensive exercises to build intuition for these parameters.
+- **Real-World Impact:** See how these choices affect fraud detection, product recommendations, and customer churn prediction.
+
 ## How to Contribute
 
 Contributions are welcome! If you have suggestions for improvements, new topics, or bug fixes, please feel free to open an issue or submit a pull request.
