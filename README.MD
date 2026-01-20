@@ -234,6 +234,15 @@ Master the critical parameters that control neural network training:
 - **Hands-On Practice:** Three comprehensive exercises to build intuition for these parameters.
 - **Real-World Impact:** See how these choices affect fraud detection, product recommendations, and customer churn prediction.
 
+#### Preventing Overfitting: Regularization Techniques (L1, L2, Dropout)
+Located in: `_5_Optimize_Neural_Networks/_05_3_Prevent_Overfitting_Regularization`
+
+Learn how to make your models robust and generalizable, preventing them from just "memorizing" the training data:
+- **L1 (Lasso) Regularization:** Feature selection by driving weights to zero.
+- **L2 (Ridge) Regularization:** Smoothing models by penalizing large weights.
+- **Dropout:** Building resilient "teams" of neurons that don't rely on specific features.
+- **Strategy:** Combining these techniques to solve the Customer Churn case study.
+
 ## How to Contribute
 
 Contributions are welcome! If you have suggestions for improvements, new topics, or bug fixes, please feel free to open an issue or submit a pull request.

@@ -23,3 +23,14 @@ Master the critical parameters that control how neural networks learn:
 - **Optimizers:** Comparing SGD and Adam, and understanding when to use each
 - **Practical Skills:** Experimenting with different configurations to find optimal settings
 - **Real-World Applications:** See how these parameters impact fraud detection, recommendations, and churn prediction
+
+### 5.3 Preventing Overfitting: Regularization Techniques
+
+Located in: `_05_3_Prevent_Overfitting_Regularization`
+
+Learn how to make your models robust and generalizable, preventing them from just "memorizing" the training data:
+
+- **L1 (Lasso) Regularization:** Feature selection by driving weights to zero.
+- **L2 (Ridge) Regularization:** Smoothing models by penalizing large weights.
+- **Dropout:** Building resilient "teams" of neurons that don't rely on specific features.
+- **Strategy:** Combining these techniques to solve the Customer Churn case study.
