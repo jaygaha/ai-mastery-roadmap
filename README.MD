@@ -243,6 +243,15 @@ Learn how to make your models robust and generalizable, preventing them from jus
 - **Dropout:** Building resilient "teams" of neurons that don't rely on specific features.
 - **Strategy:** Combining these techniques to solve the Customer Churn case study.
 
+#### Advanced Model Evaluation
+Located in: `_5_Optimize_Neural_Networks/_05_4_Advanced_Model_Evaluation`
+
+Move beyond simple "Accuracy" to understand the true performance of your models:
+- **Precision vs. Recall:** Why "Accuracy" is dangerous for medical or fraud detection models.
+- **F1-Score:** The balanced metric for the real world.
+- **ROC Curves & AUC:** Visualizing the trade-off between False Alarms and Missed Targets.
+- **Confusion Matrices:** Pinpointing exactly where your model is making mistakes.
+
 ## How to Contribute
 
 Contributions are welcome! If you have suggestions for improvements, new topics, or bug fixes, please feel free to open an issue or submit a pull request.
