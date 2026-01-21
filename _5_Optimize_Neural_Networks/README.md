@@ -34,3 +34,14 @@ Learn how to make your models robust and generalizable, preventing them from jus
 - **L2 (Ridge) Regularization:** Smoothing models by penalizing large weights.
 - **Dropout:** Building resilient "teams" of neurons that don't rely on specific features.
 - **Strategy:** Combining these techniques to solve the Customer Churn case study.
+
+### 5.4 Advanced Model Evaluation
+
+Located in: `_05_4_Advanced_Model_Evaluation`
+
+Move beyond simple "Accuracy" to understand the true performance of your models:
+
+- **Precision vs. Recall:** Why "Accuracy" is dangerous for medical or fraud detection models.
+- **F1-Score:** The balanced metric for the real world.
+- **ROC Curves & AUC:** Visualizing the trade-off between False Alarms and Missed Targets.
+- **Confusion Matrices:** Pinpointing exactly where your model is making mistakes.
