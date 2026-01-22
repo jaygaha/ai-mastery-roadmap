@@ -45,3 +45,13 @@ Move beyond simple "Accuracy" to understand the true performance of your models:
 - **F1-Score:** The balanced metric for the real world.
 - **ROC Curves & AUC:** Visualizing the trade-off between False Alarms and Missed Targets.
 - **Confusion Matrices:** Pinpointing exactly where your model is making mistakes.
+### 5.5 Hyperparameter Tuning and Model Persistence
+
+Located in: `_05_5_Hyperparameter_Tuning_Persistence`
+
+Find the "perfect recipe" for your models and learn how to save them for the real world:
+
+- **Hyperparameter Tuning:** Understanding Grid Search, Random Search, and Bayesian Optimization.
+- **The "Philosophy" of Tuning:** Knowing which dials to turn (Learning Rate, Batch Size, Neurons).
+- **Model Persistence:** Saving entire models (.keras, SavedModel) vs. just the weights (.weights.h5).
+- **Deployment Ready:** Moving from a training script to a production-ready model artifact.
