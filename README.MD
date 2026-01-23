@@ -252,6 +252,23 @@ Move beyond simple "Accuracy" to understand the true performance of your models:
 - **ROC Curves & AUC:** Visualizing the trade-off between False Alarms and Missed Targets.
 - **Confusion Matrices:** Pinpointing exactly where your model is making mistakes.
 
+#### Hyperparameter Tuning and Model Persistence
+Located in: `_5_Optimize_Neural_Networks/_05_5_Hyperparameter_Tuning_Persistence`
+
+Find the "perfect recipe" for your models and learn how to save them:
+- **Hyperparameter Tuning:** Grid Search, Random Search, and Bayesian Optimization.
+- **Model Persistence:** Saving entire models (.keras, SavedModel) vs. just the weights (.weights.h5).
+
+#### Refining the Churn Prediction Deep Learning Model
+Located in: `_5_Optimize_Neural_Networks/_05_6_Refine_Churn_DL`
+
+Master the iterative process of improving deep learning models for production:
+- **Advanced Hyperparameter Tuning:** Keras Tuner with RandomSearch, Hyperband, and BayesianOptimization.
+- **Callbacks for Training Control:** Early Stopping, Model Checkpointing, Learning Rate Scheduling.
+- **Advanced Evaluation Metrics:** Confusion matrices, Precision/Recall/F1-Score, ROC curves and AUC.
+- **Hands-On Exercises:** Compare tuner algorithms, expand search spaces, and optimize for F1-score.
+
+
 ## How to Contribute
 
 Contributions are welcome! If you have suggestions for improvements, new topics, or bug fixes, please feel free to open an issue or submit a pull request.

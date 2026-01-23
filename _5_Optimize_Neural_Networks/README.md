@@ -55,3 +55,14 @@ Find the "perfect recipe" for your models and learn how to save them for the rea
 - **The "Philosophy" of Tuning:** Knowing which dials to turn (Learning Rate, Batch Size, Neurons).
 - **Model Persistence:** Saving entire models (.keras, SavedModel) vs. just the weights (.weights.h5).
 - **Deployment Ready:** Moving from a training script to a production-ready model artifact.
+
+### 5.6 Refining the Churn Prediction Deep Learning Model
+
+Located in: `_05_6_Refine_Churn_DL`
+
+Master the iterative process of improving deep learning models for real-world performance:
+
+- **Advanced Hyperparameter Tuning:** Keras Tuner with RandomSearch, Hyperband, and BayesianOptimization.
+- **Callbacks for Training Control:** Early Stopping, Model Checkpointing, and Learning Rate Scheduling.
+- **Advanced Evaluation Metrics:** Confusion matrices, Precision/Recall/F1-Score, ROC curves and AUC.
+- **Hands-On Exercises:** Compare tuner algorithms, expand search spaces, and optimize for F1-score.
