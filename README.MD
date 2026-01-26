@@ -268,6 +268,21 @@ Master the iterative process of improving deep learning models for production:
 - **Advanced Evaluation Metrics:** Confusion matrices, Precision/Recall/F1-Score, ROC curves and AUC.
 - **Hands-On Exercises:** Compare tuner algorithms, expand search spaces, and optimize for F1-score.
 
+### 6. Specialized Deep Learning Architectures
+Located in: `_6_Specialized_DL_Architectures`
+
+Explore advanced neural network architectures designed for specific data types:
+
+#### Convolutional Neural Networks (CNNs): Theory and Architecture
+Located in: `_6_Specialized_DL_Architectures/_06_1_CNN_Theory_Architecture`
+
+Master the fundamentals of image processing with deep learning:
+- **Convolution Operation**: Learn how filters detect patterns by sliding across images.
+- **Key Concepts**: Understand stride, padding, and how they affect output dimensions.
+- **Pooling Layers**: Reduce spatial dimensions while preserving important features.
+- **CNN Architecture**: See how layers work together for image classification.
+- **Hands-On Exercises**: Calculate output dimensions, implement max pooling, build a CNN.
+
 
 ## How to Contribute
 
