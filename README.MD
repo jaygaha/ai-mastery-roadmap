@@ -283,6 +283,16 @@ Master the fundamentals of image processing with deep learning:
 - **CNN Architecture**: See how layers work together for image classification.
 - **Hands-On Exercises**: Calculate output dimensions, implement max pooling, build a CNN.
 
+#### Build Image CNN
+Located in: `_6_Specialized_DL_Architectures/_06_2_Build_Image_CNN`
+
+Master the fundamentals of image processing with deep learning:
+- **Convolution Operation**: Learn how filters detect patterns by sliding across images.
+- **Key Concepts**: Understand stride, padding, and how they affect output dimensions.
+- **Pooling Layers**: Reduce spatial dimensions while preserving important features.
+- **CNN Architecture**: See how layers work together for image classification.
+- **Hands-On Exercises**: Calculate output dimensions, implement max pooling, build a CNN.
+
 
 ## How to Contribute
 
