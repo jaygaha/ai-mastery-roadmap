@@ -21,6 +21,23 @@ Master the fundamentals of image processing with deep learning:
 - ✅ Why max pooling makes CNNs robust to small translations
 - ✅ How to calculate the number of parameters in a CNN layer
 
+### 06.2 Building Image Classification Models
+Located in: `_06_2_Build_Image_CNN`
+
+Apply CNN theory to build complete image classification pipelines:
+
+- **Data Loading**: Using `image_dataset_from_directory` and preprocessing
+- **Model Architecture**: Stacking Conv2D, Pooling, and Dense layers
+- **Training & Evaluation**: Monitoring loss/accuracy and avoiding overfitting
+- **Visualization**: Seeing what the model learns (filters) and how it improves
+- **Augmentation**: Using data augmentation to improve generalization
+
+**What You'll Learn:**
+- ✅ How to structure a CNN project from scratch
+- ✅ Using Keras preprocessing layers for data augmentation
+- ✅ Visualizing learned filters and feature maps
+- ✅ Comparing architecture variations (pooling, kernel size, depth)
+
 ---
 
 *More specialized architectures coming soon:*
