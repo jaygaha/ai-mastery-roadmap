@@ -40,7 +40,25 @@ Apply CNN theory to build complete image classification pipelines:
 
 ---
 
+### 06.3 RNN Theory & Architecture
+Located in: `_06_3_RNN_Theory_Architecture`
+
+Dive into sequential data processing:
+
+- **Sequence Data Challenges**: Why standard networks fail with time-series/text.
+- **The "Memory" State**: How RNNs maintain context over time.
+- **Unrolling**: Visualizing the recurrent loop.
+- **Hands-On**: A pure NumPy implementation to see the math in action.
+- **Vanishing Gradients**: Understanding the limitations that led to LSTMs.
+
+**What You'll Learn:**
+- ✅ The difference between One-to-Many, Many-to-One, and Seq2Seq.
+- ✅ How $h_t = \tanh(W h_{t-1} + U x_t)$ works.
+- ✅ Why context matters for words like "bank" (river vs. money).
+
+---
+
 *More specialized architectures coming soon:*
-- *RNNs and LSTMs for sequence data*
+- *Attention mechanisms and Transformers*
 - *Attention mechanisms and Transformers*
 - *Generative Adversarial Networks (GANs)*
