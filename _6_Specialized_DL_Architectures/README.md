@@ -21,6 +21,8 @@ Master the fundamentals of image processing with deep learning:
 - ✅ Why max pooling makes CNNs robust to small translations
 - ✅ How to calculate the number of parameters in a CNN layer
 
+---
+
 ### 06.2 Building Image Classification Models
 Located in: `_06_2_Build_Image_CNN`
 
@@ -58,7 +60,25 @@ Dive into sequential data processing:
 
 ---
 
+### 06.4 Building Simple RNNs
+Located in: `_06_4_Build_Simple_RNN`
+
+Put RNN theory into practice with hands-on implementations:
+
+- **Data Preparation**: Transform time series and text into RNN-ready formats
+- **Time Series Forecasting**: Predict future values using sliding window sequences
+- **Text Classification**: Build a sentiment analyzer with Embedding + SimpleRNN
+- **Practical Tips**: When to use SimpleRNN vs. LSTM/GRU
+
+**What You'll Learn:**
+- ✅ How to create sliding window sequences for time series
+- ✅ The tokenization → padding → embedding pipeline for text
+- ✅ Building and training SimpleRNN models in Keras
+- ✅ Visualizing predictions vs. actual values
+
+---
+
 *More specialized architectures coming soon:*
-- *Attention mechanisms and Transformers*
-- *Attention mechanisms and Transformers*
+- *LSTM and GRU Networks*
+- *Attention Mechanisms and Transformers*
 - *Generative Adversarial Networks (GANs)*
