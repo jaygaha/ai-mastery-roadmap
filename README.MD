@@ -283,25 +283,43 @@ Master the fundamentals of image processing with deep learning:
 - **CNN Architecture**: See how layers work together for image classification.
 - **Hands-On Exercises**: Calculate output dimensions, implement max pooling, build a CNN.
 
-#### Build Image CNN
+#### Build Image Classification Models
 Located in: `_6_Specialized_DL_Architectures/_06_2_Build_Image_CNN`
 
-Master the fundamentals of image processing with deep learning:
-- **Convolution Operation**: Learn how filters detect patterns by sliding across images.
-- **Key Concepts**: Understand stride, padding, and how they affect output dimensions.
-- **Pooling Layers**: Reduce spatial dimensions while preserving important features.
-- **CNN Architecture**: See how layers work together for image classification.
-- **Hands-On Exercises**: Calculate output dimensions, implement max pooling, build a CNN.
+Apply CNN theory to build complete image classification pipelines:
+- **Data Loading**: Using `image_dataset_from_directory` and preprocessing.
+- **Model Building**: Stacking Conv2D, Pooling, and Dense layers with Dropout.
+- **Visualization**: Plotting training curves to detect overfitting.
+- **Prediction**: Making predictions on new images.
 
 #### Recurrent Neural Networks (RNNs): Theory and Architecture
 Located in: `_6_Specialized_DL_Architectures/_06_3_RNN_Theory_Architecture`
 
-Master the fundamentals of sequence processing with deep learning:
-- **Convolution Operation**: Learn how filters detect patterns by sliding across images.
-- **Key Concepts**: Understand stride, padding, and how they affect output dimensions.
-- **Pooling Layers**: Reduce spatial dimensions while preserving important features.
-- **CNN Architecture**: See how layers work together for image classification.
-- **Hands-On Exercises**: Calculate output dimensions, implement max pooling, build a CNN.
+Dive into sequential data processing:
+- **Sequence Data**: Why standard networks fail with time-series/text.
+- **The "Memory" State**: How RNNs maintain context over time ($h_t$).
+- **Unrolling**: Visualizing the recurrent loop step-by-step.
+- **Architectures**: One-to-Many, Many-to-One, and Seq2Seq.
+- **Vanishing Gradients**: The limitation that led to LSTMs.
+
+#### Build Simple RNN
+Located in: `_6_Specialized_DL_Architectures/_06_4_Build_Simple_RNN`
+
+Put RNN theory into practice with hands-on implementations:
+- **Time Series Forecasting**: Predicting future values using sliding window sequences.
+- **Text Classification**: Tokenization, Padding, and Word Embeddings.
+- **SimpleRNN Layer**: Implementing basic recurrent layers in Keras.
+- **Data Preparation**: formatting data shapes `(batch, steps, features)`.
+
+#### Transfer Learning with Pretrained Models
+Located in: `_6_Specialized_DL_Architectures/_06_5_Transfer_Learning_Pretrained`
+
+Leverage the power of state-of-the-art models without needing massive datasets:
+- **Concept**: Why "re-inventing the wheel" is inefficient for AI.
+- **Strategies**: Feature Extraction (Frozen Base) vs. Fine-Tuning (Unfrozen Layers).
+- **Architectures**: Using ResNet, VGG, MobileNet, etc.
+- **Hands-On**: Adapting a model trained on ImageNet to custom tasks with high accuracy.
+
 
 
 ## How to Contribute

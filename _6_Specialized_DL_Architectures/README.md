@@ -78,6 +78,24 @@ Put RNN theory into practice with hands-on implementations:
 
 ---
 
+### 06.5 Transfer Learning & Pre-trained Models
+Located in: `_06_5_Transfer_Learning_Pretrained`
+
+Leverage the power of state-of-the-art models without needing massive datasets:
+
+- **Concept**: Why "re-inventing the wheel" is inefficient for AI.
+- **Strategies**: Feature Extraction vs. Fine-Tuning.
+- **Architectures**: Using ResNet, VGG, MobileNet, etc.
+- **Hands-On**: Adapting a model trained on ImageNet to a custom task.
+
+**What You'll Learn:**
+- ✅ How to load Keras Applications with pre-trained weights.
+- ✅ Freezing and unfreezing layers strategies.
+- ✅ Fine-tuning models with low learning rates.
+- ✅ Solving complex problems with small datasets.
+
+---
+
 *More specialized architectures coming soon:*
 - *LSTM and GRU Networks*
 - *Attention Mechanisms and Transformers*
