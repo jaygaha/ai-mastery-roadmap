@@ -96,6 +96,24 @@ Leverage the power of state-of-the-art models without needing massive datasets:
 
 ---
 
+### 06.6 Explore Advanced DL: Unstructured Data & Multimodal Models
+Located in: `_06_6_Explore_Advanced_DL`
+
+Go beyond numbers and categories by integrating **textual data** (customer feedback) into your churn predictions:
+
+- **Text Vectorization**: Understand TF-IDF and Bag-of-Words.
+- **Word Embeddings**: Learn how vectors capture semantic meaning.
+- **Multimodal Architectures**: Build networks that see (data) AND read (text).
+- **Advanced Exercises**: Tune vocabulary size, compare LSTM vs. Pooling, and optimize hyperparameters.
+
+**What You'll Learn:**
+- ✅ How to preprocess raw text for Deep Learning.
+- ✅ Building a model with multiple inputs (Functional API).
+- ✅ The trade-off between simple text features (TF-IDF) and sequence models (LSTM).
+
+---
+
+
 *More specialized architectures coming soon:*
 - *LSTM and GRU Networks*
 - *Attention Mechanisms and Transformers*
