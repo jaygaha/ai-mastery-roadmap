@@ -320,7 +320,13 @@ Leverage the power of state-of-the-art models without needing massive datasets:
 - **Architectures**: Using ResNet, VGG, MobileNet, etc.
 - **Hands-On**: Adapting a model trained on ImageNet to custom tasks with high accuracy.
 
+#### Explore Advanced DL
+Located in: `_6_Specialized_DL_Architectures/_06_6_Explore_Advanced_DL`
 
+- **Text Vectorization**: Understand TF-IDF and Bag-of-Words.
+- **Word Embeddings**: Learn how vectors capture semantic meaning.
+- **Multimodal Architectures**: Build networks that see (data) AND read (text).
+- **Advanced Exercises**: Tune vocabulary size, compare LSTM vs. Pooling, and optimize hyperparameters.
 
 ## How to Contribute
 
